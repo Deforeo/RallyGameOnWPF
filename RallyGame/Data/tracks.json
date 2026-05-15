@@ -1,0 +1,732 @@
+[
+  {
+    "Id": 1,
+    "Name": "Forest trail",
+    "WorldWidth": 5120,
+    "WorldHeight": 3840,
+    "StartPosition": {
+      "IsEmpty": false,
+      "Length": 1437.15271,
+      "LengthSquared": 2065408,
+      "X": 288,
+      "Y": 1408
+    },
+    "FinishPosition": {
+      "IsEmpty": false,
+      "Length": 2720,
+      "LengthSquared": 7398400,
+      "X": 1152,
+      "Y": 2464
+    },
+    "Obstacles": [
+      {
+        "X": 128,
+        "Y": 1280,
+        "Width": 768,
+        "Height": 128,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 128,
+        "Y": 1536,
+        "Width": 768,
+        "Height": 128,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 1536,
+        "Y": 512,
+        "Width": 1024,
+        "Height": 128,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 1792,
+        "Y": 1152,
+        "Width": 768,
+        "Height": 128,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 1792,
+        "Y": 1792,
+        "Width": 768,
+        "Height": 128,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 3584,
+        "Y": 384,
+        "Width": 1024,
+        "Height": 128,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 3584,
+        "Y": 640,
+        "Width": 768,
+        "Height": 128,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 4096,
+        "Y": 2560,
+        "Width": 512,
+        "Height": 128,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 384,
+        "Y": 3200,
+        "Width": 3840,
+        "Height": 128,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 384,
+        "Y": 3456,
+        "Width": 3840,
+        "Height": 128,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 384,
+        "Y": 1920,
+        "Width": 1792,
+        "Height": 128,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 0,
+        "Y": 2176,
+        "Width": 256,
+        "Height": 1152,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 4224,
+        "Y": 1024,
+        "Width": 256,
+        "Height": 384,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 4352,
+        "Y": 1536,
+        "Width": 256,
+        "Height": 384,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 4224,
+        "Y": 2048,
+        "Width": 256,
+        "Height": 384,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 256,
+        "Y": 1024,
+        "Width": 256,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 384,
+        "Y": 768,
+        "Width": 256,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 640,
+        "Y": 1664,
+        "Width": 256,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 1024,
+        "Y": 1664,
+        "Width": 256,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 1536,
+        "Y": 128,
+        "Width": 256,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 1920,
+        "Y": 128,
+        "Width": 256,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 2304,
+        "Y": 128,
+        "Width": 256,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 1792,
+        "Y": 768,
+        "Width": 256,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 2176,
+        "Y": 640,
+        "Width": 256,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 1792,
+        "Y": 1408,
+        "Width": 768,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 3584,
+        "Y": 128,
+        "Width": 256,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 4352,
+        "Y": 640,
+        "Width": 256,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 3584,
+        "Y": 1280,
+        "Width": 256,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 3584,
+        "Y": 1792,
+        "Width": 256,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 3456,
+        "Y": 2176,
+        "Width": 256,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 3584,
+        "Y": 2816,
+        "Width": 256,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 2944,
+        "Y": 1920,
+        "Width": 256,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 2944,
+        "Y": 2688,
+        "Width": 256,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 1536,
+        "Y": 2432,
+        "Width": 768,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 640,
+        "Y": 2432,
+        "Width": 256,
+        "Height": 512,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 0,
+        "Y": 1408,
+        "Width": 128,
+        "Height": 128,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 896,
+        "Y": 1024,
+        "Width": 128,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 1024,
+        "Y": 896,
+        "Width": 128,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 1152,
+        "Y": 768,
+        "Width": 128,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 1280,
+        "Y": 640,
+        "Width": 128,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 1024,
+        "Y": 1408,
+        "Width": 128,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 1152,
+        "Y": 1280,
+        "Width": 128,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 1280,
+        "Y": 1152,
+        "Width": 128,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 1408,
+        "Y": 1024,
+        "Width": 128,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 1536,
+        "Y": 896,
+        "Width": 128,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 2688,
+        "Y": 1408,
+        "Width": 128,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 2816,
+        "Y": 1280,
+        "Width": 128,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 2944,
+        "Y": 1152,
+        "Width": 128,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 3072,
+        "Y": 1024,
+        "Width": 128,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 3200,
+        "Y": 896,
+        "Width": 128,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 3328,
+        "Y": 768,
+        "Width": 128,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 2944,
+        "Y": 1664,
+        "Width": 128,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 3072,
+        "Y": 1536,
+        "Width": 128,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 3200,
+        "Y": 1408,
+        "Width": 128,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 3328,
+        "Y": 1280,
+        "Width": 128,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 3456,
+        "Y": 1152,
+        "Width": 128,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 3584,
+        "Y": 1024,
+        "Width": 128,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 4224,
+        "Y": 2944,
+        "Width": 128,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 4352,
+        "Y": 2816,
+        "Width": 128,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 4480,
+        "Y": 2688,
+        "Width": 128,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 4352,
+        "Y": 3328,
+        "Width": 128,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 4480,
+        "Y": 3200,
+        "Width": 128,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 4608,
+        "Y": 3072,
+        "Width": 128,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 2432,
+        "Y": 1920,
+        "Width": 128,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 2560,
+        "Y": 2048,
+        "Width": 128,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 2688,
+        "Y": 2176,
+        "Width": 128,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 2816,
+        "Y": 2304,
+        "Width": 128,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 2944,
+        "Y": 2432,
+        "Width": 128,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 2176,
+        "Y": 2176,
+        "Width": 128,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 2304,
+        "Y": 2304,
+        "Width": 128,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 2432,
+        "Y": 2432,
+        "Width": 128,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 2560,
+        "Y": 2560,
+        "Width": 128,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 2432,
+        "Y": 2688,
+        "Width": 128,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 1024,
+        "Y": 2304,
+        "Width": 128,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      },
+      {
+        "X": 1280,
+        "Y": 2304,
+        "Width": 128,
+        "Height": 256,
+        "SpritePath": null,
+        "IsVisible": false
+      }
+    ],
+    "Checkpoints": [
+      {
+        "X": 384,
+        "Y": 1408,
+        "Width": 40,
+        "Height": 128,
+        "Index": 0
+      },
+      {
+        "X": 2048,
+        "Y": 384,
+        "Width": 40,
+        "Height": 128,
+        "Index": 1
+      },
+      {
+        "X": 2176,
+        "Y": 1280,
+        "Width": 40,
+        "Height": 128,
+        "Index": 2
+      },
+      {
+        "X": 2688,
+        "Y": 1664,
+        "Width": 40,
+        "Height": 128,
+        "Index": 3
+      },
+      {
+        "X": 3456,
+        "Y": 640,
+        "Width": 128,
+        "Height": 40,
+        "Index": 4
+      },
+      {
+        "X": 4608,
+        "Y": 768,
+        "Width": 128,
+        "Height": 40,
+        "Index": 5
+      },
+      {
+        "X": 4096,
+        "Y": 1408,
+        "Width": 128,
+        "Height": 40,
+        "Index": 6
+      },
+      {
+        "X": 4608,
+        "Y": 1920,
+        "Width": 128,
+        "Height": 40,
+        "Index": 7
+      },
+      {
+        "X": 4096,
+        "Y": 2304,
+        "Width": 128,
+        "Height": 40,
+        "Index": 8
+      },
+      {
+        "X": 4608,
+        "Y": 2816,
+        "Width": 128,
+        "Height": 40,
+        "Index": 9
+      },
+      {
+        "X": 4096,
+        "Y": 3328,
+        "Width": 40,
+        "Height": 128,
+        "Index": 10
+      },
+      {
+        "X": 384,
+        "Y": 3328,
+        "Width": 40,
+        "Height": 128,
+        "Index": 11
+      },
+      {
+        "X": 2176,
+        "Y": 2048,
+        "Width": 40,
+        "Height": 128,
+        "Index": 12
+      },
+      {
+        "X": 1920,
+        "Y": 2944,
+        "Width": 40,
+        "Height": 128,
+        "Index": 13
+      },
+      {
+        "X": 1152,
+        "Y": 2560,
+        "Width": 128,
+        "Height": 40,
+        "Index": 14
+      }
+    ],
+    "BackgroundSpritePath": "Assets/Sprites/amp-4.png"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "Id": 1,
+    "Name": "Rally Beast",
+    "SpritePath": "Assets/Sprites/RedStrip.png",
+    "ColorHex": "#FF4444",
+    "MaxSpeed": 600,
+    "Acceleration": 400,
+    "BrakeForce": 900,
+    "Friction": 80,
+    "TurnSpeed": 3,
+    "HighSpeedTurnReduction": 0.449999988,
+    "LateralGrip": 0.850000024,
+    "DriftGripReduction": 0.349999994,
+    "Width": 80,
+    "Height": 120
+  },
+  {
+    "Id": 2,
+    "Name": "Drift Master",
+    "SpritePath": "Assets/Sprites/GreenStrip.png",
+    "ColorHex": "#44FF44",
+    "MaxSpeed": 550,
+    "Acceleration": 450,
+    "BrakeForce": 850,
+    "Friction": 70,
+    "TurnSpeed": 3.5,
+    "HighSpeedTurnReduction": 0.349999994,
+    "LateralGrip": 0.699999988,
+    "DriftGripReduction": 0.550000012,
+    "Width": 80,
+    "Height": 120
+  },
+  {
+    "Id": 3,
+    "Name": "Grip Pro",
+    "SpritePath": "Assets/Sprites/BlueStrip.png",
+    "ColorHex": "#4444FF",
+    "MaxSpeed": 650,
+    "Acceleration": 500,
+    "BrakeForce": 950,
+    "Friction": 90,
+    "TurnSpeed": 2.79999995,
+    "HighSpeedTurnReduction": 0.5,
+    "LateralGrip": 0.949999988,
+    "DriftGripReduction": 0.200000003,
+    "Width": 80,
+    "Height": 120
+  }
+]
